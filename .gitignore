@@ -1,0 +1,20 @@
+# Folder hasil build
+/build/
+/dist/
+/out/
+
+# File dan folder NetBeans
+/nbproject/private/
+/nbproject/Makefile-*.mk
+
+# File Java yang dikompilasi
+*.class
+
+# File log dan sementara
+*.log
+*.tmp
+*.bak
+
+# Library eksternal
+/lib/
+*.jar
